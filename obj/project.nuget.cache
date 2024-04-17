@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Z0gUKeh+TCRjjKKwZ++ar1kI3pprZNHU63vDpayFBRVsA9GSL/V92BGw94AO2qKBATFJnXRl6/mMEEcuj8KJA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C#\\TwitchAscii\\TwitchAscii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nill Kiggers\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nill Kiggers\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nill Kiggers\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Nill Kiggers\\.nuget\\packages\\selenium.webdriver.chromedriver\\123.0.6312.5800\\selenium.webdriver.chromedriver.123.0.6312.5800.nupkg.sha512",
+    "C:\\Users\\Nill Kiggers\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TwitchAscii depends on Selenium.WebDriver.ChromeDriver (>= 123.0.1234) but Selenium.WebDriver.ChromeDriver 123.0.1234 was not found. An approximate best match of Selenium.WebDriver.ChromeDriver 123.0.6312.5800 was resolved.",
+      "libraryId": "Selenium.WebDriver.ChromeDriver",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
